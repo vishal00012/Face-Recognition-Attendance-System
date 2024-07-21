@@ -19,17 +19,15 @@ FEATURES:
 https://machinelearningprojects.net/face-recognition-based-attendance-system/
 
 # SCREENSHOTS
+
 MAIN SCREEN:
-![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
+![main_screen](https://github.com/user-attachments/assets/ba58d05d-590f-4be4-99e2-b38be14a1bf7)
 
 TAKING ATTENDANCE:
-![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
+![taking_attendance](https://github.com/user-attachments/assets/44b4c8a3-9706-4d95-8376-dd63095e0959)
 
 SHOWING ATTENDANCE TAKEN:
-![Screenshot (11)](https://user-images.githubusercontent.com/37211676/58502151-9884c080-81a3-11e9-9a90-fec29940ee5a.png)
-
-HELP OPTION IN MENUBAR:
-![Screenshot (12)](https://user-images.githubusercontent.com/37211676/58502152-991d5700-81a3-11e9-861a-9115526010c2.png)
+![attendance_taken](https://github.com/user-attachments/assets/0c38e567-e0cc-49bb-8de9-a9c53727afe7)
 
 CHANGE PASSWORD OPTION:
-![Screenshot (13)](https://user-images.githubusercontent.com/37211676/58502146-97539380-81a3-11e9-8536-0c68160ecc55.png)
+![change_password](https://github.com/user-attachments/assets/05de7c2c-f969-47e7-bd96-5144b7723824)
